@@ -1,0 +1,8 @@
+---
+name: nexus
+
+dependencies:
+    - java
+
+files:
+    - nexus-3.5.0-02-unix.tar.gz

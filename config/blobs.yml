@@ -1,1 +1,8 @@
---- {}
+jdk-8u144-linux-x64.tar.gz:
+  size: 185515842
+  object_id: b755cab9-9462-4174-551a-01d064bb4489
+  sha: d4c4f02908d39827393dd77f9eb8da348363efda
+nexus-3.5.0-02-unix.tar.gz:
+  size: 110351030
+  object_id: 3b941bcc-7288-4259-6fb4-b1f49e146027
+  sha: 209448cd236febf7e3eae0682be3d95f786443ec

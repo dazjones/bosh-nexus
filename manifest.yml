@@ -25,9 +25,9 @@ instance_groups:
       - name: nexus
         release: bosh-nexus
         properties: {}
-        vm_type: g1-small
-        stemcell: default
-        networks:
-          - name: default
-            static_ips:
-              - 10.0.0.10
+    vm_type: g1-small
+    stemcell: default
+    networks:
+      - name: default
+        static_ips:
+          - 10.0.0.10

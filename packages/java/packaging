@@ -3,4 +3,4 @@ set -e
 
 tar -xvzf jdk-*-linux-x64.tar.gz
 rm -rf jdk-*-linux-x64.tar.gz
-mv jdk-*-linux-x64 ${BOSH_INSTALL_TARGET}
+mv jdk1.8.0_144 ${BOSH_INSTALL_TARGET}

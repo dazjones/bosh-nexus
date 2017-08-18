@@ -17,7 +17,7 @@ case $1 in
 
   cd /var/vcap/packages/nexus
 
-  exec /var/vcap/packages/nexus/bin/nexus start \
+  exec /var/vcap/packages/nexus/nexus/bin/nexus start \
          >>  $LOG_DIR/bosh_nexus-nexus.stdout.log \
          2>> $LOG_DIR/bosh_nexus-nexus.stderr.log
 
